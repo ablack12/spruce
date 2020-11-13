@@ -2800,10 +2800,12 @@
     "@leafygreen-ui/lib" "^5.1.1"
     "@leafygreen-ui/palette" "^2.0.2"
 
-"@leafygreen-ui/icon@4.1.0":
-  version "4.1.0"
-  resolved "https://registry.yarnpkg.com/@leafygreen-ui/icon/-/icon-4.1.0.tgz#1cf656fa3688c79783b28a392feb1de8a3a645f2"
-  integrity sha512-E6BawBhq1hK+y0D3R2++a70afeCCQxIKX0JsecWIyePxkuPllIpkaqX8WjDef3ZlfXjzrTFoVrC8SKc35u9q/g==
+"@leafygreen-ui/icon@7.0.1":
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/@leafygreen-ui/icon/-/icon-7.0.1.tgz#6f5d0b9a374f75660fa5bed2b33c44b96007ce90"
+  integrity sha512-Qo07jAw9GA9s8uKi5UGfj5ikegKuA5dMjhp0YY9s0HIdSMg7jjTkJXe/UPQ+XbVnXuZPY7vW0mosM7BQsu0aEA==
+  dependencies:
+    "@leafygreen-ui/lib" "^6.0.1"
 
 "@leafygreen-ui/icon@^5.2.0":
   version "5.2.0"
@@ -2812,14 +2814,7 @@
   dependencies:
     "@leafygreen-ui/lib" "^4.4.1"
 
-"@leafygreen-ui/icon@^6.0.0":
-  version "6.0.1"
-  resolved "https://registry.yarnpkg.com/@leafygreen-ui/icon/-/icon-6.0.1.tgz#19847b8d9b7dbe0bb323e369c0c8b16bd24c2132"
-  integrity sha512-dMmUlEYSvl/LPMYAePywH4oKbHv2c0agTPq2aBV3OakNZZcrlIfLpJuqpG31Cqmeev+ET+jlfKMm0JiDv0Ke5w==
-  dependencies:
-    "@leafygreen-ui/lib" "^4.4.1"
-
-"@leafygreen-ui/icon@^6.6.0":
+"@leafygreen-ui/icon@^6.0.0", "@leafygreen-ui/icon@^6.6.0":
   version "6.7.0"
   resolved "https://registry.yarnpkg.com/@leafygreen-ui/icon/-/icon-6.7.0.tgz#4fb70c38d3b849040fbe0635093a3b92b1618d41"
   integrity sha512-pX68rb1O6Rww3JWhU2bwxdHdvJ33HvvnUY4q7pP+T8sdsOG8LUUuNxcviOE3ywkgwPkTbTX7T+1j7p3eEGx5rg==
