@@ -18595,10 +18595,10 @@ signum@^1.0.0:
   resolved "https://registry.yarnpkg.com/signum/-/signum-1.0.0.tgz#74a7d2bf2a20b40eba16a92b152124f1d559fa77"
   integrity sha1-dKfSvyogtA66FqkrFSEk8dVZ+nc=
 
-simple-git@^2.24.0:
-  version "2.31.0"
-  resolved "https://registry.yarnpkg.com/simple-git/-/simple-git-2.31.0.tgz#3e5954c1e36c76fb382c08eaa2749a206db9f613"
-  integrity sha512-/+rmE7dYZMbRAfEmn8EUIOwlM2G7UdzpkC60KF86YAfXGnmGtsPrKsym0hKvLBdFLLW019C+aZld1+6iIVy5xA==
+simple-git@^2.32.0:
+  version "2.32.0"
+  resolved "https://registry.yarnpkg.com/simple-git/-/simple-git-2.32.0.tgz#57a637b3193d6b3e5b6967d01f58332d3ee9837d"
+  integrity sha512-swz7avV2JADYgTmvs+j/eDBt+gPx3SAyh2MxlDVvxqHzHLkKr6kLr4N62qZCv5LBxc9Wx8TIXVeJKmTTY8UdSQ==
   dependencies:
     "@kwsites/file-exists" "^1.1.1"
     "@kwsites/promise-deferred" "^1.1.1"
