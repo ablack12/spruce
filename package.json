@@ -73,7 +73,7 @@
     "@leafygreen-ui/palette": "3.1.0",
     "@leafygreen-ui/radio-box-group": "5.0.1",
     "@leafygreen-ui/radio-group": "7.0.1",
-    "@leafygreen-ui/side-nav": "5.0.2",
+    "@leafygreen-ui/side-nav": "5.0.3",
     "@leafygreen-ui/tabs": "5.0.1",
     "@leafygreen-ui/text-input": "5.0.8",
     "@leafygreen-ui/toast": "^0.4.2",

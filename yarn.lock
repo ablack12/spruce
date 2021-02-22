@@ -2553,10 +2553,15 @@
     "@leafygreen-ui/popover" "^7.1.0"
     react-transition-group "^4.4.1"
 
-"@leafygreen-ui/palette@3.1.0", "@leafygreen-ui/palette@^3.0.1", "@leafygreen-ui/palette@^3.1.0":
+"@leafygreen-ui/palette@3.1.0":
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/@leafygreen-ui/palette/-/palette-3.1.0.tgz#9e71e641944a1922aed11c80f1af9005abfb4645"
   integrity sha512-+KuBtiSD72vwWb2VMoDX1AJ6eLjsbWcQcJgmkNxWNih4DtJieufNxTxsJwvPRWoe6ik1yfchBJnugehLEAvHIQ==
+
+"@leafygreen-ui/palette@3.1.1", "@leafygreen-ui/palette@^3.0.1", "@leafygreen-ui/palette@^3.1.0":
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/@leafygreen-ui/palette/-/palette-3.1.1.tgz#e0f2a8c2cfdbdf45811d85839d775a618295443f"
+  integrity sha512-qj4r3hoWk2MLr4ylT60Ajg2XdlcnRI1aLowdMKEEQYudXoHgGu0dQCwiFCw/vckJ1+btQ8uIPDI9VB1zdY8sVg==
 
 "@leafygreen-ui/palette@^2.0.2":
   version "2.0.2"
@@ -2599,16 +2604,16 @@
     "@leafygreen-ui/lib" "^6.1.2"
     "@leafygreen-ui/palette" "^3.1.0"
 
-"@leafygreen-ui/side-nav@5.0.2":
-  version "5.0.2"
-  resolved "https://registry.yarnpkg.com/@leafygreen-ui/side-nav/-/side-nav-5.0.2.tgz#19f7ca64d80109b4bb480a6f1242a04b55d33db5"
-  integrity sha512-c3i1FhT3T9KiS6jGBGeeKl00y8PHlgZIIYDoj9DtIwFLeA8UMPbH2AJzVuz3/tvjdpGAH61F+s9wb5xU5M7oiA==
+"@leafygreen-ui/side-nav@5.0.3":
+  version "5.0.3"
+  resolved "https://registry.yarnpkg.com/@leafygreen-ui/side-nav/-/side-nav-5.0.3.tgz#213e77203a06dbbbe4ddf26d8769b4b7493f5c38"
+  integrity sha512-r6PTalukraVq6ewdh/lPBo2WqP7STzacmPQ0J4AfPRc6H/BKZTYBVWt1m6wZKjP5obwHJRL8bc9gcuqaH/Cs3Q==
   dependencies:
     "@leafygreen-ui/box" "^2.1.5"
     "@leafygreen-ui/emotion" "3.0.1"
     "@leafygreen-ui/lib" "^6.1.2"
     "@leafygreen-ui/menu" "9.1.2"
-    "@leafygreen-ui/palette" "3.1.0"
+    "@leafygreen-ui/palette" "3.1.1"
 
 "@leafygreen-ui/tabs@5.0.1":
   version "5.0.1"
