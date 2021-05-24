@@ -158,7 +158,7 @@
     "camelcase": "^6.1.0",
     "case-sensitive-paths-webpack-plugin": "2.3.0",
     "colors": "1.4.0",
-    "css-loader": "4.3.0",
+    "css-loader": "5.2.6",
     "cypress": "5.2.0",
     "dotenv": "8.2.0",
     "dotenv-expand": "5.1.0",
