@@ -60,7 +60,7 @@
   },
   "dependencies": {
     "@apollo/client": "3.3.7",
-    "@bugsnag/js": "7.16.0",
+    "@bugsnag/js": "7.16.7",
     "@bugsnag/plugin-react": "7.16.0",
     "@emotion/css": "^11.9.0",
     "@emotion/eslint-plugin": "11.0.0",
