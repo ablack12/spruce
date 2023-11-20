@@ -203,7 +203,7 @@
     "replace-in-file": "6.3.5",
     "rollup-plugin-visualizer": "^5.9.2",
     "serve-handler": "^6.1.5",
-    "simple-git": "3.19.1",
+    "simple-git": "3.21.0",
     "storybook": "7.4.0",
     "storybook-addon-apollo-client": "^4.1.4",
     "ts-node": "10.9.1",
