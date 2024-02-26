@@ -133,7 +133,7 @@
     "@emotion/eslint-plugin": "11.11.0",
     "@emotion/jest": "11.11.0",
     "@graphql-codegen/cli": "5.0.0",
-    "@graphql-codegen/typescript": "4.0.1",
+    "@graphql-codegen/typescript": "4.0.6",
     "@graphql-codegen/typescript-operations": "4.0.1",
     "@graphql-eslint/eslint-plugin": "3.18.0",
     "@originjs/vite-plugin-commonjs": "1.0.3",
